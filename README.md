@@ -1,4 +1,5 @@
-Drafts and research for my AGI Friday newsletter
+Drafts and research for my AGI Friday newsletter. 
+This repo is all about [the gissues](https://github.com/dreeves/agifriday/issues "GitHub Issues = gissues").
 
 ## Quick Links
 
