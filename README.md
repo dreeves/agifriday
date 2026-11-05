@@ -12,4 +12,4 @@ This repo is all about [the gissues](https://github.com/dreeves/agifriday/issues
 [Snoozed](https://github.com/dreeves/agifriday/issues?q=is:issue+is:open+label:ZzZ "Open gissues labeled ZzZ") :zzz:
 &nbsp;&nbsp; | &nbsp;&nbsp;
 [Closed](https://github.com/beeminder/beeminder/issues?q=is:issue+is:closed "Closed gissues") :heavy_check_mark:
-* [Freshgishing](https://github.com/dreeves/agifriday/issues?q=is:issue+state:open+sort:updated-asc+-label:ZzZ "Open non-snoozed gissues, oldest first") &nbsp;&nbsp; :soap:
+* [Freshgishing](https://github.com/dreeves/agifriday/issues?q=is%3Aissue+state%3Aopen+sort%3Aupdated-asc+-label%3AZzZ "Open non-snoozed gissues, oldest first") &nbsp;&nbsp; :soap:
